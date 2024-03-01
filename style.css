@@ -1,0 +1,26 @@
+h1{font-size: 200%;}
+h1{color: red;(150,200);
+text-align:center;}
+
+h1{
+    font-family: "Jacquarda Bastarda 9", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+h2 {font-size: 250%;
+color: black;(219, 150)
+text-align: center;}
+h3 {text-align: center;
+font-size: 150;}
+
+h1 {border-style: solid;
+border-color: darkblue;
+border-width: 5px;}
+h1{margin-left:10% ;}
+h1{margin-right: 10%;}
+
+
+
+
+
